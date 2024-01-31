@@ -1,0 +1,4 @@
+(executable
+ (public_name bidirectional_typing)
+ (name main)
+ (libraries bidirectional_typing))
